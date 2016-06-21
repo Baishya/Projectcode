@@ -1,0 +1,10 @@
+Title:Content Management System
+Abstract:
+ This project is designed to change the content of web pages like title,header,body etc.. dynamically.
+ It has two sides one is Admin and another, that is client.Client can see all the new updated events posted by admin user.
+Software used:
+Database:  MySQL
+Language: PHP, HTML, CSS, JAVASCRIPT.
+Web Framework: Bootstrap.
+Editor	: 	Notepad++
+Tools: Font-awesome/Tinymce(WYSIWYG)

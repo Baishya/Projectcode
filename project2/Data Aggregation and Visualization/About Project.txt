@@ -1,0 +1,10 @@
+Title:Data Aggregation And Visualization
+Software requirement:
+Database: MongoDB
+ Technology & Development Environment:-
+  Front end:Angular.js
+  Back End :NodeJS, Express.
+ Applications used:-
+  Name : Bootstrap, HTML 5, CSS, JavaScript, Ajax, D3.js, DC.js
+Abstract:
+This Project is fully developed by using MEAN stack technology.DAV is designed  to communicate information clearly and efficiently via statistical graphics, plots and information graphics.It is basically designed for analysis of big data and visualize them in graphical way.
